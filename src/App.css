@@ -1,0 +1,23 @@
+h1 {
+    margin-top: 20px;
+    background-color: rgb(215, 215, 215);
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
+
+.author {
+    font-size: 14px;
+}
+.timestamp {
+    font-size: 12px;
+    color: rgb(0, 64, 113);
+    margin-bottom: 10px;
+}
+
+#logout {
+    color: rgb(0, 109, 218);
+    text-decoration: underline;
+    cursor: pointer;
+}
